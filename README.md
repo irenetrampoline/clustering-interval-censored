@@ -1,6 +1,6 @@
 # SubLign code
 
-This repo contains experiments for "[Clustering Interval-Censored Data for Disease Phenotyping](https://arxiv.org/abs/2102.07005)" (AAAI 2022). The code contains scripts to generate synthetic code for experiment as well as two clinical datasets: 1) Parkinson's disease from the publically-available [Parkinson's Progression Marker Initiative](https://www.ppmi-info.org/access-data-specimens/download-data) and a heart failure collected from Beth Israel Deaconness Medical Center.
+This repo contains experiments for "[Clustering Interval-Censored Data for Disease Phenotyping](https://arxiv.org/abs/2102.07005)" (AAAI 2022). The code contains scripts to generate synthetic code for experiment as well as two clinical datasets: 1) Parkinson's disease from the publically-available [Parkinson's Progression Marker Initiative](https://www.ppmi-info.org/access-data-specimens/download-data) and 2) a heart failure collected from Beth Israel Deaconness Medical Center.
 
 Code is released for the purposes of transparency and replication. It has not been extensively cleaned --- nor was it designed to be run directly from this repo. Certain terms have been redacted for security concerns. If there are any questions, please contact Irene Chen at iychen@csail.mit.edu.
 
